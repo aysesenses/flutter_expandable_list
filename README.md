@@ -1,16 +1,9 @@
 # flutter_expandable_list
 
-A new Flutter project.
+This project is an example of how to create and use expandable lists in Flutter. 
+Basically, it includes a special widget to show the use of expandable lists.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src ="https://github.com/aysesenses/flutter_expandable_list/assets/28685278/b4f5de9f-7f18-45eb-bf22-fa6ec41ab28c.png" width= "250" height="480">    
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
